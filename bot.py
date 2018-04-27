@@ -18,7 +18,5 @@ async def on_ready():
 async def 천둥아(ctx):
     await client.say("멍멍")
 
-async def 누가제일예뻐(ctx):
-    await client.say("희수가 제일 예뻐용")
 
 client.run("NDIxOTkxNDI5MTE2Nzg4NzQ3.DZzmRw.rMaeR_sNA5hx7h5SqNalHBvIsyY")
